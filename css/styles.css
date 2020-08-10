@@ -18,7 +18,7 @@ h1{
     color: #484c7f;
 }
 
-h3{
+h3,thead{
     color: #ac8daf;
 }
 
@@ -36,3 +36,4 @@ nav{
 #work{
     padding-right: 5%;
 }
+
