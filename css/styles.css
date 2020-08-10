@@ -21,3 +21,10 @@ h1{
 h3{
     color: #ac8daf;
 }
+
+a:hover{
+    color: #ac8daf;
+}
+a:visited{
+    color: #db75c5;
+}
