@@ -28,3 +28,11 @@ a:hover{
 a:visited{
     color: #db75c5;
 }
+nav{
+    text-align: center;
+    padding: 2%;
+}
+
+#work{
+    padding-right: 5%;
+}
